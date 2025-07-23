@@ -1,9 +1,7 @@
-# testing
+# learning how to connect Git and GitHub
+
 First time to trying connect git and github by SSH key
 
 This made by tutorial from w3schools.com
 
-commit #1
-
-commit #2
-
+This file created in linux terminal and edited in GitHub.
